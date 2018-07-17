@@ -5,7 +5,7 @@
 
 //var GETH_HOSTNAME	= "localhost";	// put your IP address!
 
-var GETH_HOSTNAME	= "idhub_eth_chain_staging_1";	// put your IP address!
+var GETH_HOSTNAME	= "idhub_eth_chain_staging";	// put your IP address!
 var APP_HOSTNAME 	= "See package.json --> scripts --> start: Change 'localhost'!!!";
 
 var GETH_RPCPORT  	= 8545; 		// for geth --rpcport GETH_RPCPORT
